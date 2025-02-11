@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "755674563376",
+    "firebase_url": "https://proyecto-puertas-appinventor-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-puertas-appinventor",
+    "storage_bucket": "proyecto-puertas-appinventor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755674563376:android:209f80f689c7c6befe3ef5",
+        "android_client_info": {
+          "package_name": "com.example.controlpuertas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwXHgSxY6749R9hYF0ER5ZEG9LvV9EcMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
