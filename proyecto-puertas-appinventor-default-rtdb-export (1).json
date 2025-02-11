@@ -1,0 +1,31 @@
+{
+  "usuarios": {
+    "abi": {
+      "password": "12345",
+      "puerta": {
+        "historial": {
+          "-OInyavgvwvIEzIAA3ln": {
+            "estado": "Puerta Abierta",
+            "led": 1,
+            "timestamp": "02/11/2025 02:47:43 a. m."
+          },
+          "-OInybzRT5t15k83_8dr": {
+            "estado": "Puerta Cerrada",
+            "led": 2,
+            "timestamp": "02/11/2025 02:47:47 a. m."
+          },
+          "-OIqJsssNftkn7HchkyA": {
+            "estado": "Puerta Abierta",
+            "led": 1,
+            "timestamp": "02/11/2025 01:44:18 p. m."
+          },
+          "-OIqJvGxOJ4YhUUG_uvL": {
+            "estado": "Puerta Cerrada",
+            "led": 2,
+            "timestamp": "02/11/2025 01:44:28 p. m."
+          }
+        }
+      }
+    }
+  }
+}
